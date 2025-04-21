@@ -1,7 +1,9 @@
 ## 🩸 Modelo de Machine Learning: O paciente vai ou não desenvolver uma doença hepática? 
 
 ![alt text](<imagens/Imagem do WhatsApp de 2025-04-21 à(s) 13.53.20_1a970805.jpg>)
-Descrição do Problema
+
+## 🩺Descrição do Problema
+
 O projeto tem como objetivo desenvolver um modelo preditivo capaz de classificar a presença ou ausência de doença hepática em pacientes com base em dados clínicos e laboratoriais. Essa é uma tarefa de classificação supervisionada, na qual o algoritmo aprende a partir de exemplos rotulados (com ou sem doença hepática) para, posteriormente, realizar previsões em novos dados.
 O conjunto de dados utilizado contém variáveis como idade, sexo, níveis de bilirrubina, enzimas hepáticas, albumina, entre outros indicadores clínicos. 
 A ideia é que esse modelo possa ser uma ferramenta útil para médicos, hospitais ou governos, auxiliando no planejamento de gastos com saúde ou na criação de políticas de prevenção mais eficazes.  
