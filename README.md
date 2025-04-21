@@ -24,27 +24,27 @@ Além disso, a base de dados é de domínio público e amplamente utilizada para
 
 Foram testados diferentes algoritmos de classificação, incluindo:
 
-Regressão Logística
+- Regressão Logística
 
-K-Nearest Neighbors (KNN)
+- K-Nearest Neighbors (KNN)
 
-Árvore de Decisão
+- Árvore de Decisão
 
-Random Forest
+- Random Forest
 
-Suporte a Vetores de Máquinas (SVM)
+- Suporte a Vetores de Máquinas (SVM)
 
-XGBoost
+- XGBoost
 
 Após realizar o pré-processamento dos dados, balanceamento das classes com SMOTE e ajuste de hiperparâmetros por meio de GridSearchCV, o algoritmo que apresentou melhor desempenho foi o Random Forest, com os seguintes resultados:
 
-Acurácia: 86%
+- Acurácia: 86%
 
-Precisão: 84%
+- Precisão: 84%
 
-Recall: 88%
+- Recall: 88%
 
-F1-Score: 86%
+- F1-Score: 86%
 
 
 ## 📊 Análise dos Resultados
