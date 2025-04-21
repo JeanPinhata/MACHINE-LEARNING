@@ -1,4 +1,4 @@
-## 🩸 Modelo de Machine Learning: O paciente vai ou não desenvolver uma doença hepática? (Classificação) [🔗 Acessar](MLClassificacao_Doenca_Hepatica/Classificacao-Doenca-Hepatica.ipynb) 
+## 🩸 Modelo de Machine Learning: O paciente vai ou não desenvolver uma doença hepática? 
 
 ![alt text](<imagens/Imagem do WhatsApp de 2025-04-21 à(s) 13.53.20_1a970805.jpg>)
 Neste mini-projeto, desenvolvi um modelo de Machine Learning para prever se um paciente desenvolverá ou não uma doença hepática, utilizando diversas características do próprio paciente. A ideia é que esse modelo possa ser uma ferramenta útil para médicos, hospitais ou governos, auxiliando no planejamento de gastos com saúde ou na criação de políticas de prevenção mais eficazes.  
